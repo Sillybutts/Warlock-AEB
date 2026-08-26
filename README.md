@@ -4,8 +4,8 @@ UNFINISHED FILES for my old Warlock AEB dart blaster. Files as of 12-13-2023.
 https://www.youtube.com/watch?v=n8XrQx5KR_0
 
 The blaster is designed to use a size 550 12T motor (I used https://www.amazon.com/OGRC-Motor-Brushed-Traxxas-Slash/dp/B09TVVHC97/ref=sr_1_5 ). 
-It also needs a planetary gearbox for that motor. I used this: 
-Currently used gearbox: https://www.aliexpress.us/item/2255800966945183.html I use a 100:1 ratio. 8mm shaft option.
+It also needs a planetary gearbox for that motor. I used this: 36mm x 40.9mm Planetary Gearbox 3.175mm input 8mm output. I use a 100:1 ratio. 8mm shaft option.
+Currently used gearbox: https://www.aliexpress.us/item/2255800966945183.html 
 OLD WORSE GEARBOX: https://www.aliexpress.us/item/3256804290236196.html
 
 The Warlock uses the exact same motor and gearbox setup as my Battlemage blaster https://github.com/Sillybutts/Battlemage-AEB/tree/main.
