@@ -12,6 +12,8 @@ The Warlock uses the exact same motor and gearbox setup as my Battlemage blaster
 
 
 To do as of December 2023 (which I won't be doing):
+- Basically, the whole thing is horrible. The gear system needs a lot of work and stability improvements, which would likely be easier to remake from scratch.
+- The bolt system being held together lopsided by one bar and one rod caused the whole thing to sort of banana as the rod was tightened. Not a good system. Use EITHER bars OR rods, not both.
 - Widen 8-32 holes
 - I should add some grabbing wings on the side of the battery door panel.
 - Reminder: power switch with a ‘Pew’ and a ‘no pew’ setting
